@@ -29,7 +29,7 @@ The application provides an easy way to measure elapsed time with start, stop, a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/stopwatch.git
+git clone https://github.com/movsisiannarteh-hash/Stop-watch.git
 ```
 
 ### 2. Navigate to the project directory
